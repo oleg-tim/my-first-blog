@@ -25,7 +25,7 @@ SECRET_KEY = '4u^$56)0r3txl*pum0e&4t#*9#do(c12$e31w=&&0#s(nqq$-c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['olegtim.pythonanywhere.com']
 
 
 # Application definition
